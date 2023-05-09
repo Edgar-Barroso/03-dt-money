@@ -1,0 +1,68 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "description": "Desenvolvimento",
+            "type": "income",
+            "category": "Venda",
+            "price": 14000,
+            "createdAt": "2022-07-29T19:36:44.505Z"
+        },
+        {
+            "id": 2,
+            "description": "Hamburger",
+            "type": "outcome",
+            "category": "Alimentação",
+            "price": 60,
+            "createdAt": "2022-07-29T19:30:44.505Z"
+        },
+        {
+            "id": 3,
+            "description": "Ignite Rocketseat",
+            "type": "outcome",
+            "category": "Educação",
+            "price": 1980,
+            "createdAt": "2022-07-29T19:24:44.505Z"
+        },
+        {
+            "id": 4,
+            "description": "Salário",
+            "type": "income",
+            "category": "Trabalho",
+            "price": 3500,
+            "createdAt": "2022-07-30T10:15:00.000Z"
+        },
+        {
+            "id": 5,
+            "description": "Netflix",
+            "type": "outcome",
+            "category": "Entretenimento",
+            "price": 45,
+            "createdAt": "2022-07-30T22:30:00.000Z"
+        },
+        {
+            "id": 6,
+            "description": "Supermercado",
+            "type": "outcome",
+            "category": "Compras",
+            "price": 280,
+            "createdAt": "2022-07-31T14:20:00.000Z"
+        },
+        {
+            "id": 7,
+            "description": "Bônus",
+            "type": "income",
+            "category": "Trabalho",
+            "price": 1000,
+            "createdAt": "2022-08-01T08:00:00.000Z"
+        },
+        {
+            "id": 8,
+            "description": "Academia",
+            "type": "outcome",
+            "category": "Saúde",
+            "price": 120,
+            "createdAt": "2022-08-01T18:00:00.000Z"
+        }
+    ]
+}
